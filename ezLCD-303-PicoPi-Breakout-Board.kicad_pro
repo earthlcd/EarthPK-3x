@@ -441,7 +441,7 @@
   },
   "pcbnew": {
     "last_paths": {
-      "gencad": "",
+      "gencad": "gerbers/ezLCD-303-PicoPi-Breakout-Board-GenCAD.cad",
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
