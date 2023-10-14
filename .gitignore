@@ -1,0 +1,7 @@
+gerbers/
+*.sch-bak
+*.kicad_pcb-bak
+
+bom/
+design-review/
+
