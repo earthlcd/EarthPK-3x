@@ -4,5 +4,5 @@
 
 These are the design file for the EarthPK-3x Pico Pi Breakout Board that can be used with EarthLCD 3x product such as the following:
 
-[ezLCD-3043-PK](https://earthlcd.com/products/copy-of-ezlcd-304-rev-b-4-3-smart-touch-lcd?_pos=1&_sid=89c015bb5&_ss=r)
+[ezLCD-3043-PK](https://earthlcd.com/products/copy-of-ezlcd-304-rev-b-4-3-smart-touch-lcd)
 
