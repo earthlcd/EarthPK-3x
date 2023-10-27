@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "ezLCDPK-3x")
+    (date "2023-10-27")
+    (rev "X2")
+    (company "EarthLCD")
+  )
+
   (lib_symbols
     (symbol "1_EarthLCD:EarthLCD.com-20mm-5mm" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "ART" (at 0 0 0)
@@ -34,6 +41,10 @@
   (text "ezLCD-303 PicoPi Breakout Board" (at 16.51 20.32 0)
     (effects (font (size 2.54 2.54)) (justify left bottom))
     (uuid 00533c9b-63ab-460b-a49d-d82acc907956)
+  )
+  (text "REV-X2: Fixed missing / broken +3.3V to RS-458" (at 20.32 31.75 0)
+    (effects (font (size 2.54 2.54)) (justify left bottom))
+    (uuid 19e4f91d-047b-4be5-a040-98e00a0b35df)
   )
   (text "REV-X1: Initial Release" (at 20.32 26.67 0)
     (effects (font (size 2.54 2.54)) (justify left bottom))
