@@ -10,5 +10,8 @@ The arduino library to use the arduino IDE with this is below:
 
 [arLCD Library](https://github.com/earthlcd/arLCDLib)
 
+Schematic:
+[REV-X2](https://github.com/earthlcd/EarthPK-3x/blob/master/schematics/ezLCD-303-PicoPi-Breakout-Board-REV-X2.pdf)
+
 QuickStart Guide (coming soon)
 
